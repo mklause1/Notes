@@ -1,0 +1,26 @@
+Beyond Compare Link: http://www.scootersoftware.com/download.php
+
+Github: Github.com
+Github for Windows: https://windows.github.com/
+
+
+git 	add 	-f 	"Repo Website\bin\*"
+
+^	^	^		^
+|	|	|		|
+start	add	force	Relative path	(* = include all)
+
+[master +72(added) ~0(changed) -0(deleted)]
+
+
+git	commit		-m		"Force-add website's bin DLLs"
+
+^	^		^			^
+|	|		|			|
+start	commit		message		text of message
+
+Get status = git status
+
+
+
+
