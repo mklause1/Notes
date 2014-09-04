@@ -21,6 +21,8 @@ start	commit		message		text of message
 
 Get status = git status
 
+-end of notes
+
 
 
 
