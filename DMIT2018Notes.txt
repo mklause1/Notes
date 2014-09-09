@@ -22,5 +22,17 @@ start	commit		message		text of message
 Get status = git status
 
 
+XML
+
+
+XML = eXtensible Markup Language
+
+Element = Tag
+
+Images are converted to Base64
+
+null = <endDate></endDate> or <endDate />
+
+attribute = src="http://...." (<img src="http://...." />)
 
 
