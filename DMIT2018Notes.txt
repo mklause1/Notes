@@ -36,3 +36,4 @@ null = <endDate></endDate> or <endDate />
 attribute = src="http://...." (<img src="http://...." />)
 
 
+~ = tild (rootwebsite)
