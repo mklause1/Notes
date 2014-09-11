@@ -37,3 +37,15 @@ attribute = src="http://...." (<img src="http://...." />)
 
 
 ~ = tild (rootwebsite)
+
+
+- Code_First
+
+	- Generate your own classes for entities and dbcontext
+
+
+- Model_First
+
+	- .edmx (Entity Model Data XML)
+
+
