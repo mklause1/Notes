@@ -49,3 +49,23 @@ attribute = src="http://...." (<img src="http://...." />)
 	- .edmx (Entity Model Data XML)
 
 
+
+
+
+Common Attributes for Entity Properties
+
+	Schema
+	[Key]
+	[Column(Order = #)]
+	[DatabaseGenerated(DatabaseGeneratedOption.enumValue)]
+	[Not Mapped]
+
+	Validation
+	[Required(ErrorMessage = "")]
+	[Range(min, max, ErrorMessage = "")]
+	[StringLength(maxLength, MinimumLength = minLength, ErrorMessage = "")]
+
+
+
+- such that in coding (=> = such that)
+
